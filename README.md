@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Self taught hobbyist C/C++ programmer. Currently using boot.dev to learn new skills so I can start a career in software development.
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/147e5b47-041f-483c-a3d9-25cf8614bd21/thumbnail" >
+</p>
+
 <!--
 **AliceDavies27/AliceDavies27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
